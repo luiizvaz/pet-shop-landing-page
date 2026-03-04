@@ -1,12 +1,12 @@
-🐾 <h1>Pet Shop Landing Page</h1>
+<h1>🐾 Pet Shop Landing Page</h1>
 
 A responsive Pet Shop landing page built to demonstrate modern front-end layout techniques and responsive design principles.
 
 This project showcases a clean desktop layout and a mobile-first responsive adaptation, maintaining visual identity and usability across devices.
 
-📸 Preview
+<h1>📸 Preview</h1>
 
-💻 <h2>Desktop Version</h2>
+<h2>💻 Desktop Version</h2>
 
 The desktop layout features a horizontal navigation bar, hero section with branding illustration, welcome message, and call-to-action button.
 
@@ -14,7 +14,7 @@ The desktop layout features a horizontal navigation bar, hero section with brand
 
 The mobile version reorganizes the layout vertically, prioritizing readability and user interaction while preserving the original design identity.
 
-🚀 <h2>Technologies Used</h2>
+<h2>🚀 Technologies Used</h2>
 
 <h3>HTML5</h3>
 
@@ -26,7 +26,7 @@ The mobile version reorganizes the layout vertically, prioritizing readability a
 
 Responsive Design Principles
 
-🎯 <h2>Project Goals</h2>
+<h2>🎯 Project Goals</h2>
 
 Practice responsive layout structuring
 
@@ -38,7 +38,7 @@ Maintain design consistency across screen sizes
 
 Improve UI organization and visual hierarchy
 
-📐 <h2>Features</h2>
+<h2>📐 Features</h2>
 
 Responsive navigation menu
 
@@ -50,7 +50,7 @@ Adaptive layout for desktop and mobile
 
 Clean and minimal UI
 
-🧠 <h2>What I Learned</h2>
+<h2>🧠 What I Learned</h2>
 
 How to control layout flow using Flexbox
 
