@@ -10,7 +10,7 @@ This project showcases a clean desktop layout and a mobile-first responsive adap
 
 The desktop layout features a horizontal navigation bar, hero section with branding illustration, welcome message, and call-to-action button.
 
-📱 <h2>Mobile Version</h2>
+<h2>📱 Mobile Version</h2>
 
 The mobile version reorganizes the layout vertically, prioritizing readability and user interaction while preserving the original design identity.
 
