@@ -59,3 +59,5 @@ How to restructure elements for smaller screens
 Importance of spacing and hierarchy in UI design
 
 How responsive design improves user experience
+
+<img src="https://github.com/luiizvaz/pet-shop-landing-page/blob/master/assets/pet-shop.png?raw=true"/>
