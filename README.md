@@ -24,7 +24,7 @@ The mobile version reorganizes the layout vertically, prioritizing readability a
 
 <h3>Media Queries</h3>
 
-Responsive Design Principles
+<h3>Responsive Design Principles</h3>
 
 <h2>🎯 Project Goals</h2>
 
